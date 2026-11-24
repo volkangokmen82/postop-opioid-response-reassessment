@@ -1,5 +1,7 @@
 # Postoperative opioid response and nurse-led pain reassessment in intensive care
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24486228.svg)](https://doi.org/10.5281/zenodo.24486228)
+
 Analysis code for the article "Beyond Dose Escalation: Agent-Specific Opioid Response, Nurse-Led Pain Reassessment and Prediction of Non-Response in Postoperative Intensive Care".
 
 ## Data
